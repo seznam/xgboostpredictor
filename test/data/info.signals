@@ -1,0 +1,255 @@
+0 fasttext_queries 1
+1 fasttext_queries 2
+2 fasttext_queries 3
+3 fasttext_queries 4
+4 fasttext_queries 5
+5 fasttext_queries 6
+6 fasttext_queries 7
+7 fasttext_queries 8
+8 fasttext_queries 9
+9 fasttext_queries 10
+10 fasttext_queries 11
+11 fasttext_queries 12
+12 fasttext_queries 13
+13 fasttext_queries 14
+14 fasttext_queries 15
+15 fasttext_queries 16
+16 fasttext_queries 17
+17 fasttext_queries 18
+18 fasttext_queries 19
+19 fasttext_queries 20
+20 fasttext_queries 21
+21 fasttext_queries 22
+22 fasttext_queries 23
+23 fasttext_queries 24
+24 fasttext_queries 25
+25 fasttext_queries 26
+26 fasttext_queries 27
+27 fasttext_queries 28
+28 fasttext_queries 29
+29 fasttext_queries 30
+30 fasttext_queries 31
+31 fasttext_queries 32
+32 fasttext_queries 33
+33 fasttext_queries 34
+34 fasttext_queries 35
+35 fasttext_queries 36
+36 fasttext_queries 37
+37 fasttext_queries 38
+38 fasttext_queries 39
+39 fasttext_queries 40
+40 fasttext_queries 41
+41 fasttext_queries 42
+42 fasttext_queries 43
+43 fasttext_queries 44
+44 fasttext_queries 45
+45 fasttext_queries 46
+46 fasttext_queries 47
+47 fasttext_queries 48
+48 fasttext_queries 49
+49 fasttext_queries 50
+50 fasttext_queries 51
+51 fasttext_queries 52
+52 fasttext_queries 53
+53 fasttext_queries 54
+54 fasttext_queries 55
+55 fasttext_queries 56
+56 fasttext_queries 57
+57 fasttext_queries 58
+58 fasttext_queries 59
+59 fasttext_queries 60
+60 fasttext_queries 61
+61 fasttext_queries 62
+62 fasttext_queries 63
+63 fasttext_queries 64
+64 fasttext_queries 65
+65 fasttext_queries 66
+66 fasttext_queries 67
+67 fasttext_queries 68
+68 fasttext_queries 69
+69 fasttext_queries 70
+70 fasttext_queries 71
+71 fasttext_queries 72
+72 fasttext_queries 73
+73 fasttext_queries 74
+74 fasttext_queries 75
+75 fasttext_queries 76
+76 fasttext_queries 77
+77 fasttext_queries 78
+78 fasttext_queries 79
+79 fasttext_queries 80
+80 fasttext_queries 81
+81 fasttext_queries 82
+82 fasttext_queries 83
+83 fasttext_queries 84
+84 fasttext_queries 85
+85 fasttext_queries 86
+86 fasttext_queries 87
+87 fasttext_queries 88
+88 fasttext_queries 89
+89 fasttext_queries 90
+90 fasttext_queries 91
+91 fasttext_queries 92
+92 fasttext_queries 93
+93 fasttext_queries 94
+94 fasttext_queries 95
+95 fasttext_queries 96
+96 fasttext_queries 97
+97 fasttext_queries 98
+98 fasttext_queries 99
+99 fasttext_queries 100
+100 fasttext_queries 101
+101 fasttext_queries 102
+102 fasttext_queries 103
+103 fasttext_queries 104
+104 fasttext_queries 105
+105 fasttext_queries 106
+106 fasttext_queries 107
+107 fasttext_queries 108
+108 fasttext_queries 109
+109 fasttext_queries 110
+110 fasttext_queries 111
+111 fasttext_queries 112
+112 fasttext_queries 113
+113 fasttext_queries 114
+114 fasttext_queries 115
+115 fasttext_queries 116
+116 fasttext_queries 117
+117 fasttext_queries 118
+118 fasttext_queries 119
+119 fasttext_queries 120
+120 fasttext_queries 121
+121 fasttext_queries 122
+122 fasttext_queries 123
+123 fasttext_queries 124
+124 fasttext_queries 125
+125 fasttext_queries 126
+126 fasttext_queries 127
+127 fasttext_queries 128
+128 language_query_cs
+129 language_query_de
+130 language_query_en
+131 language_query_fr
+132 language_query_pl
+133 language_query_sk
+134 language_query_un
+135 language_words_avg_cs
+136 language_words_avg_de
+137 language_words_avg_en
+138 language_words_avg_fr
+139 language_words_avg_pl
+140 language_words_avg_sk
+141 language_words_avg_un
+142 language_words_sum_cs
+143 language_words_sum_de
+144 language_words_sum_en
+145 language_words_sum_fr
+146 language_words_sum_pl
+147 language_words_sum_sk
+148 language_words_sum_un
+149 list_based_signals 4599122
+150 list_based_signals 11416615
+151 list_based_signals 16675562
+152 list_based_signals 93439453
+153 list_based_signals 111253143
+154 list_based_signals 131112985
+155 list_based_signals 209802912
+156 list_based_signals 349612675
+157 list_based_signals 497629900
+158 list_based_signals 662890942
+159 list_based_signals 814478985
+160 list_based_signals 1054449555
+161 list_based_signals 1097121261
+162 list_based_signals 1100418475
+163 list_based_signals 1209571829
+164 list_based_signals 1329689262
+165 list_based_signals 1420732925
+166 list_based_signals 1495443683
+167 list_based_signals 1521254566
+168 list_based_signals 1681456575
+169 list_based_signals 1842095602
+170 list_based_signals 1859148465
+171 list_based_signals 1894934142
+172 list_based_signals 1901811213
+173 list_based_signals 2062000565
+174 list_based_signals 2062397824
+175 list_based_signals 2318227402
+176 list_based_signals 2338073127
+177 list_based_signals 2341572651
+178 list_based_signals 2400504801
+179 list_based_signals 2418927755
+180 list_based_signals 2476939781
+181 list_based_signals 2639770685
+182 list_based_signals 2723402435
+183 list_based_signals 2930916243
+184 list_based_signals 2938534727
+185 list_based_signals 3062007590
+186 list_based_signals 3063096957
+187 list_based_signals 3121363779
+188 list_based_signals 3153809223
+189 list_based_signals 3203896420
+190 list_based_signals 3209100928
+191 list_based_signals 3209470312
+192 list_based_signals 3231252014
+193 list_based_signals 3256204256
+194 list_based_signals 3369043450
+195 list_based_signals 3379078037
+196 list_based_signals 3382981187
+197 list_based_signals 3413805617
+198 list_based_signals 3436582049
+199 list_based_signals 3438697153
+200 list_based_signals 3461364820
+201 list_based_signals 3556925527
+202 list_based_signals 3616698459
+203 list_based_signals 3616712409
+204 list_based_signals 3675867030
+205 list_based_signals 3685585224
+206 list_based_signals 3712392408
+207 list_based_signals 3773058169
+208 list_based_signals 3779478510
+209 list_based_signals 3814382803
+210 list_based_signals 3818481412
+211 list_based_signals 3942683666
+212 list_based_signals 4003356188
+213 list_based_signals 4090166921
+214 list_based_signals 4125497353
+215 list_based_signals 4247457858
+216 qs2_best_is_cz_sk
+217 qs2_best_is_dictionary
+218 qs2_best_is_eshop
+219 qs2_best_is_porn
+220 qs2_confidence
+221 qs2_cz_sk_rate
+222 qs2_dictionary_rate
+223 qs2_distance
+224 qs2_dominance
+225 qs2_dominance_other
+226 qs2_eshop_rate
+227 qs2_match_size
+228 qs2_norm_best
+229 qs2_norm_best_cz_sk
+230 qs2_norm_best_dictionary
+231 qs2_norm_best_eshop
+232 qs2_norm_best_foreign
+233 qs2_norm_best_porn
+234 qs2_norm_other
+235 qs2_porn_rate
+236 qs2_raw_best
+237 qs2_raw_best_cz_sk
+238 qs2_raw_best_dictionary
+239 qs2_raw_best_eshop
+240 qs2_raw_best_foreign
+241 qs2_raw_best_porn
+242 qs2_raw_other
+243 query_contains_cz_sk_accent
+244 query_contains_latin_letter
+245 query_contains_non_latin_letter
+246 query_contains_number
+247 query_count
+248 query_num_words
+249 query_original_contains_cz_sk_accent
+250 query_porn_language
+251 text_based_nti 56999107
+252 text_based_nti 985667948
+253 text_based_nti 1503052985
+254 token_max_porn_language
