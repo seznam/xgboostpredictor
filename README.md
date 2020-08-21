@@ -2,11 +2,9 @@
 C++ header-only thread-safe library of [XGBoost](https://github.com/dmlc/xgboost/) predictor without dependency on xgboost library. 
 
 ## Requirements
-``` 
-C++17 compiler
-rapidjson library
-model serialized to json format (requires xgboost >= 1.0)
-```
+* C++17 compiler
+* [RapidJSON](https://rapidjson.org/) library installed
+* XGBoost model saved to [json format](https://xgboost.readthedocs.io/en/latest/tutorials/saving_model.html) (requires xgboost >= 1.0)
 
 ## Using library in C++
 
