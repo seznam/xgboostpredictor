@@ -1,16 +1,13 @@
 #pragma once
 
-#include <rapidjson/fwd.h>
-
-#include <string>
-#include <vector>
 #include <rapidjson/document.h>
 #include <rapidjson/error/en.h>
 #include <rapidjson/istreamwrapper.h>
-#include <unordered_set>
 
-#include <fstream>
 #include <cmath>
+#include <string>
+#include <vector>
+#include <fstream>
 
 #ifdef USE_EXPERIMENTAL_OPTIONAL
 #include <experimental/optional>
